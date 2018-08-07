@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+        <reference name="head">
+            <action method="addCss">
+                <file>hellux/slider/slider.css</file>
+            </action>
+        </reference>
+</layout>
