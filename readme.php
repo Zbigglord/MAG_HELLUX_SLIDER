@@ -2,6 +2,7 @@
 <!-- NEEDS FRONTEND SKIN :
    1. jquery
    2. bootstrap
+also it installs with xml file with action that adds slider.css into head section so we may want to write such css 
 Needs Frontend code: -->
 <?php $slider = Hellux_Slider_Model_Slider::getSliderData(1); //1 is slider id so we may have as meny we want ?>
     <div id="slider">
